@@ -1,6 +1,6 @@
 // Write your solution here!
 const cats = ['Milo', "Otis", "Garfield"]; 
-const Broom = ['Whatever','Luck','Needed'];
+
 
 function destructivelyAppendCat(name){
     cats.push("Ralph");
@@ -33,7 +33,6 @@ function removeFirstCat(){
 }
 
 cats;
-Broom;
 destructivelyAppendCat;
 destructivelyPrependCat;
 destructivelyRemoveLastCat;
